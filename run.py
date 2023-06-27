@@ -1,3 +1,3 @@
-from f import run_blast
-app=run_blast()
+from f import index
+app=index()
 
