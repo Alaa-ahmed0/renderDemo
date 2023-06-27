@@ -1,3 +1,3 @@
-from f import index
-app=index()
+from f import create_app
+app=create_app()
 
